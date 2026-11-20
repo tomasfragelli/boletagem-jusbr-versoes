@@ -1,0 +1,7 @@
+{
+  "versao": "3.0.0",
+  "instalador": "https://github.com/tomasfragelli/boletagem-jusbr-versoes/releases/download/v3.0.0/Boletagem-Setup-3.0.0.exe",
+  "sha256": "fb0bce836d6613513db4d5a4f6321273ba6a83bc014d65eb0550b7fb699b88ed",
+  "notas": "Interface web local, instalador para Windows e atualização automática.",
+  "notas_detalhe": "Primeira versão com interface web local, aberta pelo atalho do programa.\n\nNovidades: telas da bateria, do histórico, dos andamentos e do ranking de falhas; relatórios em txt, html e xlsx; filtros salvos; tema claro e escuro.\n\nO instalador não precisa de administrador, não apaga seus dados ao desinstalar e usa o Google Chrome do Windows. A partir desta versão, o programa avisa quando houver uma versão nova e atualiza sozinho, depois da sua confirmação."
+}
