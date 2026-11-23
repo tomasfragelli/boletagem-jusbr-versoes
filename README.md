@@ -1,7 +1,9 @@
 # Boletagem — versões para instalar
 
-Este repositório guarda só os instaladores do Boletagem e o arquivo que informa a versão mais nova
-(`atualizacao.json`). O repositório de desenvolvimento é privado.
+O programa "Boletagem" é um programa feito inteiramente com inteligência artificial que visa automatizar a consulta de novos andamentos processuais no nos processos judiciais no âmbito do Poder Judiciário brasileiro, especialmente os processos cíveis em tramitação nos tribunais estaduais e federais.
+
+Este repositório inclui o instalador do programa "Boletagem" e o arquivo que informa a versão mais nova
+(`atualizacao.json`).
 
 ## Como instalar
 
